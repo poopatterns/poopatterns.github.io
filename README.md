@@ -1,2 +1,2 @@
-# poopatterns.github.io
-Amazing Poo Patterns From Real Life
+# Amazing Poo Patterns From Real Life
+
