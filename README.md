@@ -1,5 +1,4 @@
-# Book About Software Poo Patterns
+# About This Book 
 
-
-The life is amazing and full of Sotware Poo Patterns, some of them are Open Sourced 
-Let's try to make Open Source effort to collect and analyze them in one place. 
+It's Live Book About Software Poo Patterns that can be found in real and popular Open Source projects. 
+Let's try to collect all of them in one place. 
