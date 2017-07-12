@@ -3,11 +3,11 @@
 - If some poo pattern is missing just make an article 
 - If you find bug just fix it 
 
-# Please do not offense people in any way 
+# Please do not offend people in any way (the goal is to capture the pattern, not blame anyone)
 
-- Keep articles 100% tehcnical
-- Do not mention any company 
-- Do not point anybody directly 
+- Keep articles 100% technical
+- Do not mention any company
+- Do not point anybody directly
 
 # To Make Change 
 
